@@ -10,6 +10,6 @@ window.addEventListener("scroll", () => {
     if (window.scrollY > headerHeight) {
         menu.style.backgroundColor = "rgb(253, 162, 243)"; // Cambia el color de fondo a rosado
     } else {
-        menu.style.backgroundColor = "rgba(0, 0, 0, 0)"; // Vuelve al fondo transparente
+        menu.style.backgroundColor = "rgb(0, 0, 0, 0)"; // Vuelve al fondo transparente
     }
 });
