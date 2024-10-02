@@ -2,8 +2,13 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
+<<<<<<< HEAD
     background-image: url('IMG/logo1-7Liliana.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
      background-size:auto; /* Ajusta la imagen para cubrir todo el fondo */
+=======
+    background-image: url('Logo Circular Fresas Con Chocolate Divertido.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+>>>>>>> ae59b8eccf7c56d8e6c1133bb6ab3014de281dcf
     background-position: center; /* Centra la imagen en el encabezado */
     height: 30rem; /* Altura del encabezado (ajusta según tus necesidades) */
     
