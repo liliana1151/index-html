@@ -2,20 +2,16 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-<<<<<<< HEAD
-    background-image: url('IMG/logo1-7Liliana.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
-     background-size:auto; /* Ajusta la imagen para cubrir todo el fondo */
-=======
-    background-image: url('IMG/logo1-7Liliana.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
-    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
->>>>>>> ae59b8eccf7c56d8e6c1133bb6ab3014de281dcf
+
+    background-image: url('IMG/logo 1.7liliana.jpg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ubicación de tu imagen */
+    background-size:auto; /* Ajusta la imagen para cubrir todo el fondo */
     background-position: center; /* Centra la imagen en el encabezado */
     height: 30rem; /* Altura del encabezado (ajusta según tus necesidades) */
     
     color: #041dbd; /* Color del texto en el encabezado para asegurar la legibilidad */
     text-orientation: upright;
     text-align: center; /* Alinea el contenido al centro del encabezado */
-    padding: px; /* Espacio de relleno interno para el contenido */
+    padding: 12px; /* Espacio de relleno interno para el contenido */
     
 }
 
@@ -85,9 +81,9 @@ body {
     /* configura el color, tamaño de fuente y alineación del texto en el cuerpo de la página */
     color: #090909;
     font-size: 30px;s
-    padding: 5%;
-    text-align:justify;
-    font-family: Arial, Helvetica, sans-serif;
+    padding 5%;
+    text-align:justify
+    font-family Arial, Helvetica, sans-serif
 }
 
 
